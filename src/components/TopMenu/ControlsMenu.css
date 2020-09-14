@@ -1,0 +1,14 @@
+.controls-menu {
+  background-color: white;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 17% 17% 25% 18%;
+  width: 32%;
+  column-gap: 5%;
+}
+.controls-menu > div {
+  width: 100%;
+}
+
+.skip-control {
+}
